@@ -1,4 +1,5 @@
 (module MOLEX_53048-0510_5PIN_RA (layer F.Cu)
+  (at 2.5 1.7)
   (descr "Molex PicoBlade 1.25mm header - 5 pins, RA")
   (fp_text reference MOLEX_53048-0510_5PIN_RA (at 0 3.7) (layer F.SilkS)
     (effects (font (size 0.8 0.8) (thickness 0.15)))
